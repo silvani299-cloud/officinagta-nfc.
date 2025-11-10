@@ -1,5 +1,5 @@
 # officinagta-nfc.
-<!doctype html>
+
 <html lang="it">
 <head>
 <meta charset="utf-8">
