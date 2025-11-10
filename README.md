@@ -32,6 +32,8 @@
         <span class="icon web">WWW</span> Sito Web
       </a>
     </div>
+    Ecco il link formattato da incollare su GitHub che punta al luogo dell’officina:
+Luogo officina su Google Maps￼
     <small>Tocca per aprire un link</small>
   </div>
 </body>
